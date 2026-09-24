@@ -41,13 +41,13 @@
 }
 
 /* Navigation horisontell i header */
-.header .nav {
+.header nav {
   display: flex;
   gap: 1rem;
 }
 
 /* Navigation vertikal i sidebar */
-.sidebar .nav {
+.sidebar nav {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
